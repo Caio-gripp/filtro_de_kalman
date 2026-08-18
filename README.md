@@ -1,5 +1,7 @@
 Trabalho desenvolvido por Caio Gripp (202601203) e Luiza Kerscher (202501128).
 
+Tentamos bastante fazer a parte C mas não conseguimos :(
+
 
 # Filtro de Kalman
 
