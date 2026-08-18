@@ -1,3 +1,6 @@
+Trabalho desenvolvido por Caio Gripp (202601203) e Luiza Kerscher (202501128).
+
+
 # Filtro de Kalman
 
 Implementação de um Filtro de Kalman linear genérico e sua aplicação à fusão de sensores de uma IMU (giroscópio + acelerômetro) para estimação do ângulo de inclinação (*pitch*) de um corpo rígido.
